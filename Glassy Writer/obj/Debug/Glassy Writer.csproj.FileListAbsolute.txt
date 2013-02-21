@@ -1,0 +1,39 @@
+C:\Users\Home\AppData\Local\Temporary Projects\Glassy Writer\bin\Debug\Glassy Writer.exe
+C:\Users\Home\AppData\Local\Temporary Projects\Glassy Writer\bin\Debug\Glassy Writer.pdb
+C:\Users\Home\AppData\Local\Temporary Projects\Glassy Writer\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Home\AppData\Local\Temporary Projects\Glassy Writer\obj\Debug\Glassy_Writer.Form1.resources
+C:\Users\Home\AppData\Local\Temporary Projects\Glassy Writer\obj\Debug\Glassy_Writer.Properties.Resources.resources
+C:\Users\Home\AppData\Local\Temporary Projects\Glassy Writer\obj\Debug\Glassy Writer.csproj.GenerateResource.Cache
+C:\Users\Home\AppData\Local\Temporary Projects\Glassy Writer\obj\Debug\Glassy Writer.exe
+C:\Users\Home\AppData\Local\Temporary Projects\Glassy Writer\obj\Debug\Glassy Writer.pdb
+C:\Users\Home\Documents\Visual Studio 2008\Projects\Glassy Writer\Glassy Writer\obj\Debug\Glassy Writer.exe
+C:\Users\Home\Documents\Visual Studio 2008\Projects\Glassy Writer\Glassy Writer\obj\Debug\Glassy Writer.pdb
+C:\Users\Home\Documents\Visual Studio 2008\Projects\Glassy Writer\Glassy Writer\bin\Debug\Glassy Writer.exe
+C:\Users\Home\Documents\Visual Studio 2008\Projects\Glassy Writer\Glassy Writer\bin\Debug\Glassy Writer.pdb
+C:\Users\Home\Documents\Visual Studio 2008\Projects\Glassy Writer\Glassy Writer\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Home\Documents\Visual Studio 2008\Projects\Glassy Writer\Glassy Writer\obj\Debug\Glassy_Writer.Form1.resources
+C:\Users\Home\Documents\Visual Studio 2008\Projects\Glassy Writer\Glassy Writer\obj\Debug\Glassy_Writer.Properties.Resources.resources
+C:\Users\Home\Documents\Visual Studio 2008\Projects\Glassy Writer\Glassy Writer\obj\Debug\Glassy Writer.csproj.GenerateResource.Cache
+C:\Users\Home\Documents\Visual Studio 2008\Projects\Glassy Writer\Glassy Writer\obj\Debug\Glassy_Writer.Form2.resources
+C:\Documents and Settings\Home\My Documents\Visual Studio 2010\Projects\Glassy Writer\Glassy Writer\bin\Debug\Glassy Writer.exe.config
+C:\Documents and Settings\Home\My Documents\Visual Studio 2010\Projects\Glassy Writer\Glassy Writer\obj\Debug\Glassy Writer.exe
+C:\Documents and Settings\Home\My Documents\Visual Studio 2010\Projects\Glassy Writer\Glassy Writer\obj\Debug\Glassy Writer.pdb
+C:\Documents and Settings\Home\My Documents\Visual Studio 2010\Projects\Glassy Writer\Glassy Writer\bin\Debug\Glassy Writer.exe
+C:\Documents and Settings\Home\My Documents\Visual Studio 2010\Projects\Glassy Writer\Glassy Writer\bin\Debug\Glassy Writer.pdb
+C:\Documents and Settings\Home\My Documents\Visual Studio 2010\Projects\Glassy Writer\Glassy Writer\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Home\My Documents\Visual Studio 2010\Projects\Glassy Writer\Glassy Writer\obj\Debug\Glassy_Writer.Form1.resources
+C:\Documents and Settings\Home\My Documents\Visual Studio 2010\Projects\Glassy Writer\Glassy Writer\obj\Debug\Glassy_Writer.Form2.resources
+C:\Documents and Settings\Home\My Documents\Visual Studio 2010\Projects\Glassy Writer\Glassy Writer\obj\Debug\Glassy_Writer.Properties.Resources.resources
+C:\Documents and Settings\Home\My Documents\Visual Studio 2010\Projects\Glassy Writer\Glassy Writer\obj\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Home\My Documents\Visual Studio 2010\Projects\Glassy Writer\Glassy Writer\obj\Debug\GenerateResource.write.1.tlog
+C:\Project to upload on Github\Glassy Writer\Glassy Writer\bin\Debug\Glassy Writer.exe.config
+C:\Project to upload on Github\Glassy Writer\Glassy Writer\obj\Debug\Glassy Writer.exe
+C:\Project to upload on Github\Glassy Writer\Glassy Writer\obj\Debug\Glassy Writer.pdb
+C:\Project to upload on Github\Glassy Writer\Glassy Writer\bin\Debug\Glassy Writer.exe
+C:\Project to upload on Github\Glassy Writer\Glassy Writer\bin\Debug\Glassy Writer.pdb
+C:\Project to upload on Github\Glassy Writer\Glassy Writer\obj\Debug\ResolveAssemblyReference.cache
+C:\Project to upload on Github\Glassy Writer\Glassy Writer\obj\Debug\Glassy_Writer.Form1.resources
+C:\Project to upload on Github\Glassy Writer\Glassy Writer\obj\Debug\Glassy_Writer.Form2.resources
+C:\Project to upload on Github\Glassy Writer\Glassy Writer\obj\Debug\Glassy_Writer.Properties.Resources.resources
+C:\Project to upload on Github\Glassy Writer\Glassy Writer\obj\Debug\GenerateResource.read.1.tlog
+C:\Project to upload on Github\Glassy Writer\Glassy Writer\obj\Debug\GenerateResource.write.1.tlog
